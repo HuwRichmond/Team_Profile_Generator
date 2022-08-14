@@ -13,21 +13,15 @@ This application was created to generate a team profile based on user input usin
 * [Questions](#questions)
 
 ## Installation 
-The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest. 
+To use the application, clone the repository from GitHub and download NodeJS. This application also requires a file system and inquirer module. If testing is required, this application uses Jest. 
 
 ## Usage 
-Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Screencastify](https://drive.google.com/file/d/1tWZNaLaSKDgV-UohblVVEdnwex9nPzDj/view)<br>
-<img src="./assets/image/samplepage.png">
+Use inquirer from your command line to answer questions about your project. Type "npm i && npm start" as a shortcut.
+View walk through video here - [Screencastify](https://drive.google.com/file/d/1NsOI11j0p7ZNN6ndPOjOUYQE_PVwMYOZ/view?usp=sharing)<br>
+<img src="./assets/image/ScreenshotHTML.png">
 
 ## License 
-This project is license under MIT
-
-## Contributing 
-Contributors should read the installation section. 
+This project uses MIT license
 
 ## Tests
 Run `npm test` to run Jest for tests on constructors. 
-
-## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
